@@ -1,4 +1,5 @@
-### Hi there 👋
+Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,golang,html,css,vue,nuxtjs,angular,react,nestjs,nodejs,mongodb)](https://skillicons.dev)
 
 <!--
 **wanarsanPhaiii/wanarsanPhaiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
