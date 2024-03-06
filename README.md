@@ -1,4 +1,4 @@
-<h5>Skills:</h5><br/>
+Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,golang,html,css,vue,nuxtjs,angular,react,nestjs,nodejs,mongodb)](https://skillicons.dev)
 
 <!--
